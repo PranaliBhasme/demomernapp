@@ -1,9 +1,9 @@
 import React from "react";
 
-const Dashboard =()=>{
-    return(
+const Dashboard = () => {
+    return (
         <>This is dashboard
-        this is updated code</>
+            this is updated code</>
     )
 }
 export default Dashboard
