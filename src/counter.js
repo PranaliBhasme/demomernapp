@@ -4,11 +4,12 @@ const Counter = () => {
     const [counter, setCounter] = useState(0)
 
     const handleCounter = () => {
-
+     console.log(counter+1)
     }
     return (
         <>
-            Counter
+            Counter 
+            <h1>I'm learning</h1>
         </>
     )
 }
